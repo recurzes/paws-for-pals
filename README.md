@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # paws_for_pals
 
 A new Flutter project.
@@ -15,6 +14,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-=======
-# paws-for-pals
->>>>>>> 7391add9d02b79ad7891875ea74c26c911f5cf72
+
